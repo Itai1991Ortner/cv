@@ -1,0 +1,38 @@
+/**********TAG SELECTOR********/
+body{
+     background-color: HoneyDew;
+}
+
+hr{
+         background-color: white;
+         border-style: none;
+         border-top-style: dotted;
+         border-color: grey;
+         border-width: 5px;
+         width: 5%;
+}
+
+img{
+        border-radius: 50%;
+        width: 230px;
+
+}
+
+}
+
+/*********CLASS SELECTOR*********/
+
+.upper_hr{
+             border-style: inset;
+             width: 100%;
+             border-width: 1px;
+
+
+}
+/**********ID SELECTOR********/
+
+#sub{
+      font-size: 14px;
+      font-weight: bold;
+}
+
